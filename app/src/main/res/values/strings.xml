@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="fullName">Nicholas Chan</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phoneNo">+60 (19) 126 3625</string>
+    <string name="socialMedia">"@chanNicholas"</string>
+    <string name="email">nicChan9384@gmail.com</string>
+</resources>
